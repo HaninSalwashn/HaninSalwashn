@@ -1,4 +1,10 @@
-## Hi there 👋
+# Halo semua!👋
+
+Perkenalkan nama saya **Hanin Salwa shn**.<br>
+
+Saya seorang **Mahasiswi Sistem Informasi** di [STT Nurul Fikri](https://nurulfikri.ac.id/).<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/hanin-salwa-782052253/)ku ya.
 
 <!--
 **HaninSalwashn/HaninSalwashn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
